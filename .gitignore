@@ -1,0 +1,6 @@
+test*
+*.zip
+/annotations
+/images
+/data
+/project
